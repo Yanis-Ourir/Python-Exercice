@@ -51,3 +51,5 @@ Demandez à l'utilisateur son nom, puis affichez un message de salutation person
 ---
 
 Ces exercices devraient vous aider à pratiquer les bases de Python et à renforcer vos compétences en programmation. N'hésitez pas à les résoudre dans l'ordre qui vous convient et à explorer d'autres problèmes une fois que vous vous sentez à l'aise avec ceux-ci. Bon codage ! 😉
+
+La partie 2 des (exercices)[https://github.com/Yanis-Ourir/python-exercice-part2] !! 
